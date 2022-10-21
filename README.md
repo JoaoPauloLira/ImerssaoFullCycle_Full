@@ -1,4 +1,4 @@
-# ImersaoFullCycle_01
+# ImersaoFullCycle_01 (SIMULADOR)
 Implementação do Projeto Go-kafka
 
 
@@ -16,3 +16,13 @@ Implementação do Projeto Go-kafka
 3 - Rodar o GO
   * docker compose exec app bash
   * go run main.go
+
+
+# ImersaoFullCycle_02 (Nest.js)
+Font e Back com Nest.js
+
+1 - Rodar o comando do entrypoint.sh que roda a aplicação junto com o docker-compose
+  * chmod +x .docker/entrypoint.sh
+  
+2 - Rodar o docker-compose
+  * docker compose up
